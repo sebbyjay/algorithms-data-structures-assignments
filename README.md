@@ -1,5 +1,5 @@
-# algorithms-data-structures-assignments
-Assignments for Algorithms and Data Structures, in format of jupyter notebooks
+# algorithms-data-structures-jupyter
+Final projects for Algorithms and Data Structures, in format of jupyter notebooks
 
 Author: Sebastien Dundas  
 Project: Algorithms and Data Structures  
