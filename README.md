@@ -2,7 +2,7 @@
 Assignments for Algorithms and Data Structures, in format of jupyter notebooks
 
 Author: Sebastien Dundas  
-Project: Algorithms and Data Structures
+Project: Algorithms and Data Structures  
 Date: Semester 1, 2024  
 
 IMPORTANT DISCLAIMER: This repository contains coursework completed as part of my university studies.
